@@ -91,7 +91,7 @@
 
 <script type="text/javascript">
   $(document).on("submit", "#post-form", function (e) {
-    e.preventDefault();
+    e.preventDefault(); // This prevents the page from reloading after submit
 
     $.ajax({
       type: "POST",
