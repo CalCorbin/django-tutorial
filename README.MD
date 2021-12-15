@@ -9,3 +9,7 @@
 2. Ensure you have Django installed
 
 - `python -m pip install Django`
+
+3. Run the urlshortner app
+
+- `cd urlshortner && python manage.py runserver`
