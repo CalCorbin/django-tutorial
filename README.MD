@@ -1,6 +1,6 @@
 # Django Tutorial
 
-## Local Setup
+## Local Setup for the Url Shortner App
 
 1. Start the virtual environment, venv, using the command below
 
